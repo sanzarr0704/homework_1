@@ -1,0 +1,26 @@
+.container {
+    width: 1146px;
+    margin: 0 auto;
+}
+label {
+    background-color: aqua;
+    border-width: 50px;
+}
+button {
+    background-color: red;
+}
+.blockmail {
+    margin-left: 790px;
+    width: 1146px;
+}
+
+
+.blockbig {
+    width: 1170px;
+    height: 500px;
+    background-color: chartreuse;
+    position: relative;
+}
+.mailblock {
+    margin-top: 40px;
+}
